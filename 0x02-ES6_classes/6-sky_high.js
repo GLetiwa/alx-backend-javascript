@@ -1,5 +1,5 @@
-/* eslint disable */
-import Building from './5-building.js';
+/* eslint-disable */
+import Building from './5-building';
 
 class SkyHighBuilding extends Building {
   constructor(sqft, floors) {
