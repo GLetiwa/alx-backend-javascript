@@ -1,5 +1,4 @@
 /* eslint-disable */
-
 class HolbertonCourse {
   constructor(name, length, students) {
     // Verify the type of attributes during object creation
